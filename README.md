@@ -1,6 +1,6 @@
 # Personal Bank Ledger Statement Generator
 
-A Java project for recording personal banking transactions and generating a clear ledger statement.
+
 
 ## Team Details
 
