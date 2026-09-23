@@ -9,8 +9,8 @@
 | S.No. | Student ID | Name |
 |---|---|---|
 | 1 | 2620030635 | Lohith |
-| 2 | [Enter ID] | Mahesh |
-| 3 | [Enter ID] | Sushanth |
+| 2 | 2620030552 | Mahesh |
+| 3 | 2620090074 | Sushanth |
 
 **Supervisor:** Dr Sukanya Ledalla
 
